@@ -1,1 +1,1 @@
-# quizapp
+# Luminate App
