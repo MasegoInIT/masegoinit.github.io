@@ -41,8 +41,7 @@ h1 {
   padding: 10px 20px;
   background-color: transparent;
   color: #fff;
-  border: 2px;
-  border-color: #fff;
+  border: 2px solid white;
   cursor: pointer;
   font-size: 16px;
   border-radius: 4px;
@@ -51,7 +50,8 @@ h1 {
 }
 
 .button:hover {
-  background-color: #3071a9;
+  color: #001F3F;
+  background-color: #fff;
 }
 
 .result {
