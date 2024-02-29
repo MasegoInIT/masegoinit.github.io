@@ -78,7 +78,6 @@ h1 {
 .splash-header {
   height : 90%;
   color : white;
-  font-family : consolas;
   font-size : 30px;
   display : flex;
   justify-content: center;
