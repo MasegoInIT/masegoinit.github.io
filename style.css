@@ -82,8 +82,9 @@ h1 {
   height : 90%;
   color : white;
   width: 70%;
+  text-transform: uppercase;
   text-align: center;
-  font-size : 20px;
+  font-size : 40px;
   position: absolute;
   top: 50%;
   left: 50%;
