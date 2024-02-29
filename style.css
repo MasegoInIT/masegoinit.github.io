@@ -90,6 +90,17 @@ h1 {
   left: 50%;
   transform: translate(-50%, -40%);
 }
+.splash-short-description {
+  height : 90%;
+  color : white;
+  width: 70%;
+  text-align: center;
+  font-size : 15px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -20%);
+}
 
 .splash-description {
   height : 90%;
@@ -100,7 +111,7 @@ h1 {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -20%);
+  transform: translate(-50%, 0%);
 }
 
 .hidden{
