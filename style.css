@@ -71,7 +71,7 @@ h1 {
   height : 95%;
   width : 95%;
   transform : translate(-50%,-50%);    
-  background-color: rgba(0,0,0);
+  background-image: url('image_123650291.JPG');
   transition : all ease-in-out 600ms;
 }
 
