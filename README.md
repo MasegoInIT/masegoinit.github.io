@@ -1,1 +1,1 @@
-# Luminate App
+# Luminate Game
